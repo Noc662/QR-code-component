@@ -46,7 +46,7 @@ I learned that I need a lot of practice
 
 ## Author
 
-- Website - [Noc](https://github.com/Noc662)
+- GitHub - [Noc](https://github.com/Noc662)
 - Frontend Mentor - [@Noc662](https://www.frontendmentor.io/profile/Noc662)
 
 ## Acknowledgments
